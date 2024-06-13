@@ -12,6 +12,7 @@ How it works:
 Features:
 
 <img src="demo_photo.png" alt="Photo of UI" width="400"/>
+
  - Includes Visual Aid for Location of Shot
  - Imposed Arrow Location via green line
  - Included many bow variables to allow for many different bow setups
