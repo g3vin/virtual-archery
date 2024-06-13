@@ -10,7 +10,7 @@ How it works:
  - Projectile Physics Used for simulation of shot
 
 Features:
-
+![enter image description here](demo_photo.png)
  - Includes Visual Aid for Location of Shot
  - Imposed Arrow Location via green line
  - Included many bow variables to allow for many different bow setups
